@@ -1,6 +1,5 @@
-# Hola, mi nombre es Andrés Cecconi 👋
+# ![image](https://github.com/user-attachments/assets/b831c828-c101-45e3-b5bc-690c2013d413) Hola, mi nombre es Andrés Cecconi 👋
 ## Estudiante de Desarrollo de Software en UADE
-### Bienvenido a mi Repo! 
 
 <!--
 **andres-Cecconi/andres-Cecconi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
