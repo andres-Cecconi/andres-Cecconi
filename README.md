@@ -1,10 +1,11 @@
-# ![image](https://github.com/user-attachments/assets/b831c828-c101-45e3-b5bc-690c2013d413) Hola, mi nombre es Andrés Cecconi 👋
+# ![image](https://github.com/user-attachments/assets/4b3cc5ad-a43c-40e8-a49c-437170871087) Hola, mi nombre es Andrés Cecconi 👋
 ## Estudiante de Desarrollo de Software en UADE
 
 <!--
 **andres-Cecconi/andres-Cecconi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ide
+as to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
