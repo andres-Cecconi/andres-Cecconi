@@ -1,5 +1,6 @@
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Andrés Cecconi 👋
-### Estudiante de Desarrollo de Software en UADE y front-end freelance
+# Hola, mi nombre es Andrés Cecconi 👋
+## Estudiante de Desarrollo de Software en UADE
+### Bienvenido a mi Repo! 
 
 <!--
 **andres-Cecconi/andres-Cecconi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
