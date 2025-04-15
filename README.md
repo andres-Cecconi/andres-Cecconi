@@ -1,4 +1,4 @@
-# ![pixel-me2](https://github.com/user-attachments/assets/dbcdeb15-8b28-41ef-869e-a239b9e5893b) Hola, mi nombre es Andrés Cecconi 👋
+# Hola, mi nombre es Andrés Cecconi 👋![pixel-me2](https://github.com/user-attachments/assets/dbcdeb15-8b28-41ef-869e-a239b9e5893b)
 ###        Soy estudiante de Desarrollo de Software en UADE
 
 
