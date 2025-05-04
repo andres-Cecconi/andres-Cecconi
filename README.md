@@ -5,9 +5,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de Desarrollo de Software en UADE y también autodidacta.  
+Soy estudiante de Desarrollo de Software en UADE, y también autodidacta.  
 Me interesa entender cómo funcionan las cosas y aplicar lógica para resolver problemas reales.  
-Tengo un enfoque más técnico que estético.
+Tengo un enfoque más técnico que estético, y aunque la creatividad no es mi fuerte (por ahora), estoy trabajando para desarrollarla y poder aplicarla en tecnología.
 
 Hoy me estoy formando en backend y explorando temas como **automatización**, **machine learning** y las aplicaciones de **IA**.  
 También me interesa la innovación y el uso de la tecnología para simplificar procesos (aunque primero haya que complicarse un poco con el código 😅).
@@ -16,10 +16,11 @@ También me interesa la innovación y el uso de la tecnología para simplificar 
 
 ## 🧰 Tecnologías con las que trabajo
 
-- 💻 **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
+- 💻 **Frontend:** HTML, CSS, JavaScript, Bootstrap
 - 🧪 **Backend:** Python (Flask), Node.js (Express)
 - 🗃️ **Bases de datos:** JSON (por ahora), algo de MySQL
 - ⚙️ **Otras herramientas:** Git y GitHub, Postman, Figma
+- 📚 **En proceso de aprendizaje:** React, Testing, Ingeniería de Requerimientos, Sistemas Operativos, Machine Learning
 
 ---
 
@@ -40,19 +41,19 @@ Tienda online desarrollada como parte del curso de JavaScript.
 - Funcionalidad de carrito, productos dinámicos y almacenamiento local  
 
 ### 👨‍💼 Portfolio personal  
-Sitio web hecho desde cero con HTML, CSS y JavaScript.  
-[🔗 Ver portfolio](https://andres-cecconi.github.io/portfolio_desarrolloWeb/)  
+<a href="https://andres-cecconi.github.io/portfolio_desarrolloWeb/" target="_blank">🔗 Ver portfolio</a>  
+Sitio web hecho desde cero con HTML, CSS y JavaScript.
 
 ### 🐾 TigreVet (UADE - proyecto académico ficticio)  
-Sitio institucional para una veterinaria ecológica en Tigre.  
-[🔗 Ver sitio](https://andres-cecconi.github.io/tigreVet_desarrolloWeb/)  
+<a href="https://andres-cecconi.github.io/tigreVet_desarrolloWeb/" target="_blank">🔗 Ver sitio</a>  
+Sitio institucional para una veterinaria ecológica en Tigre.
 
 ### 🌐 Backend con Node.js (Coderhouse)  
 Proyecto de backend con Express, rutas, controladores y manejo de datos usando archivos.  
 
 ---
 
-## 📘 Formación 
+## 📘 Formación adicional
 
 - 🎓 **UADE** – Tecnicatura en Desarrollo de Software (en curso)  
 - 💻 **Coderhouse** – JavaScript, Backend con Node.js & Express (en curso)  
@@ -65,7 +66,14 @@ Proyecto de backend con Express, rutas, controladores y manejo de datos usando a
 Este GitHub es mi carta de presentación:  
 Quiero que puedan ver **qué sé hacer**, en qué estoy trabajando y también **quién soy**.
 
-Soy una persona comprometida, con ganas de aprender, llevar a la práctica lo que estudio siempre buscando mejorar.
+Soy un tipo comprometido, con ganas de aprender y llevar a la práctica lo que estudio.  
+Buena onda, compañero, y siempre buscando mejorar.
+
+---
+
+## 🌍 Idiomas
+
+- 🇬🇧 Inglés: Nivel avanzado (C1 equivalente). Estudié en un profesorado y llegué a nivel CAE; aunque hoy no lo practico todos los días, conservo fluidez al hablar y entenderlo.
 
 ---
 
@@ -79,8 +87,8 @@ Tocar en grupo me está enseñando lo mismo que el desarrollo de software: la im
 
 ## 📬 ¿Dónde encontrarme?
 
-- ✉️ **Email:** ancecconi15@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/andres-cecconi-b7b9a718b](https://www.linkedin.com/in/andres-cecconi-b7b9a718b/)
-- 🌐 **Portfolio:** [andres-cecconi.github.io/portfolio_desarrolloWeb](https://andres-cecconi.github.io/portfolio_desarrolloWeb/)
+- ✉️ **Email:** cecconiandres.dev@gmail.com
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/andres-cecconi-b7b9a718b/" target="_blank">linkedin.com/in/andres-cecconi-b7b9a718b</a>
+- 🌐 **Portfolio:** <a href="https://andres-cecconi.github.io/portfolio_desarrolloWeb/" target="_blank">andres-cecconi.github.io/portfolio_desarrolloWeb</a>
 
 ---
