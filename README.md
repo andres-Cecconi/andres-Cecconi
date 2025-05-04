@@ -1,5 +1,5 @@
 # Hola, soy es Andrés Cecconi ![pixel-me2](https://github.com/user-attachments/assets/dbcdeb15-8b28-41ef-869e-a239b9e5893b)👋
-### 🎓 Estudiante de Desarrollo de Software en UADE | 🖥️ Backend | 🐍 Python | 🛠️ Git | 🤖 Explorando ML
+### 🎓 Estudiante de Desarrollo de Software en UADE | 🎨 Frontend | 🖥️ Backend | 🐍 Python | 🛠️ Git | 🤖 Explorando ML
 
 ---
 
