@@ -26,23 +26,24 @@ También me atrae la innovación y cómo la tecnología puede simplificar proces
 
 ## 🚀 Proyectos
 
+### 👨‍💼 Portfolio personal  
+<a href="https://andres-cecconi.github.io/portfolio_desarrolloWeb/" target="_blank">🔗 Ver portfolio</a>  
+Sitio web hecho desde cero con HTML, CSS y JavaScript.
+
 ### 📊 Caja Plus
-Aplicación web para gestionar movimientos de caja y finanzas.  
+Aplicación web para la gestión integral negocios: movimientos de caja, stock y reportes analíticos, pensada para pequeños comercios y emprendedores.  
 - 🖥️ Frontend: HTML, CSS, JS con `fetch()` para consumir API  
 - 🔧 Backend: Python + Flask (API REST modularizada)  
 - 🧪 Pruebas con Postman  
-- 💾 Uso de archivos `.json` para almacenamiento
+- 💾 Uso de archivos `.json` para almacenamiento  
 
-> Proyecto desarrollado en equipo como parte de la carrera. En constante evolución.
+> Proyecto académico desarrollado en equipo como parte de la carrera. Sitio actualmente en desarrollo. Más info:  
+🔗 [Ver repositorio (colaborador)](https://github.com/arieljarovisky/proyectoProgramacion1)  
 
 ### 🛍️ E-commerce (Coderhouse)
 Tienda online desarrollada como parte del curso de JavaScript.  
 - HTML, CSS y JS Vanilla  
 - Funcionalidad de carrito, productos dinámicos y almacenamiento local  
-
-### 👨‍💼 Portfolio personal  
-<a href="https://andres-cecconi.github.io/portfolio_desarrolloWeb/" target="_blank">🔗 Ver portfolio</a>  
-Sitio web hecho desde cero con HTML, CSS y JavaScript.
 
 ### 🐾 TigreVet (UADE - proyecto académico ficticio)  
 <a href="https://andres-cecconi.github.io/tigreVet_desarrolloWeb/" target="_blank">🔗 Ver sitio</a>  
