@@ -1,4 +1,4 @@
-# Hola, soy es Andrés Cecconi ![pixel-me2](https://github.com/user-attachments/assets/dbcdeb15-8b28-41ef-869e-a239b9e5893b)👋
+# Hola!👋👋 Soy es Andrés Cecconi ![pixel-me2](https://github.com/user-attachments/assets/dbcdeb15-8b28-41ef-869e-a239b9e5893b)
 ### 🎓 Estudiante de Desarrollo de Software en UADE | 🎨 Frontend | 🖥️ Backend | 🐍 Python | 🛠️ Git | 🤖 Explorando ML
 
 ---
@@ -7,20 +7,20 @@
 
 Soy estudiante de Desarrollo de Software en UADE, y también autodidacta.  
 Me interesa entender cómo funcionan las cosas y aplicar lógica para resolver problemas reales.  
-Tengo un enfoque más técnico que estético, y aunque la creatividad no es mi fuerte (por ahora), estoy trabajando para desarrollarla y poder aplicarla en tecnología.
+Me interesa crecer tanto en lo técnico como en lo creativo, y estoy trabajando para integrar ambos aspectos en soluciones tecnológicas que aporten valor.
 
-Hoy me estoy formando en backend y explorando temas como **automatización**, **machine learning** y las aplicaciones de **IA**.  
-También me interesa la innovación y el uso de la tecnología para simplificar procesos (aunque primero haya que complicarse un poco con el código 😅).
+Lo que más me entusiasma del mundo IT es el potencial de resolver problemas reales con tecnología. Me interesa especialmente aprender a pensar en soluciones sólidas, útiles y bien diseñadas.
+A futuro, me gustaría adentrarme en áreas como automatización, inteligencia artificial y machine learning, por su enorme potencial de impacto y transformación.
+También me atrae la innovación y cómo la tecnología puede simplificar procesos… aunque primero haya que complicarse un poco con el código 😅
 
 ---
 
 ## 🧰 Tecnologías con las que trabajo
 
-- 💻 **Frontend:** HTML, CSS, JavaScript, Bootstrap
+- 💻 **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
 - 🧪 **Backend:** Python (Flask), Node.js (Express)
 - 🗃️ **Bases de datos:** JSON (por ahora), algo de MySQL
 - ⚙️ **Otras herramientas:** Git y GitHub, Postman, Figma
-- 📚 **En proceso de aprendizaje:** React, Testing, Ingeniería de Requerimientos, Sistemas Operativos, Machine Learning
 
 ---
 
@@ -53,11 +53,11 @@ Proyecto de backend con Express, rutas, controladores y manejo de datos usando a
 
 ---
 
-## 📘 Formación adicional
+## 🎓 Formación
 
-- 🎓 **UADE** – Tecnicatura en Desarrollo de Software (en curso)  
-- 💻 **Coderhouse** – JavaScript, Backend con Node.js & Express (en curso)  
-- 📖 Estudio autodidacta de Python, Flask y conceptos de backend
+- 🏫 **UADE** – Tecnicatura en Desarrollo de Software (en curso)  
+- 💻 **Coderhouse** – Cursos de JavaScript y Backend con Node.js & Express (en curso)  
+- 📖 **Autodidacta** – Python, Flask, Git, GitHub y fundamentos de desarrollo backend
 
 ---
 
@@ -73,15 +73,16 @@ Buena onda, compañero, y siempre buscando mejorar.
 
 ## 🌍 Idiomas
 
-- 🇬🇧 Inglés: Nivel avanzado (C1 equivalente). Estudié en un profesorado y llegué a nivel CAE; aunque hoy no lo practico todos los días, conservo fluidez al hablar y entenderlo.
+- 🇬🇧 Inglés: Nivel avanzado (C1 equivalente). Tuve un paso académico por el profesorado y aunque hoy no lo practico todos los días, lo entiendo a la perfección y conservo fluidez al hablar.
 
 ---
 
 ## 🎵 Algo más personal
 
 Hace poco descubrí mi pasión por la música.  
-Estoy aprendiendo a tocar el **bajo**, participo en un **ensamble**, y también me interesa aprender **piano** y **canto**.  
-Tocar en grupo me está enseñando lo mismo que el desarrollo de software: la importancia del ritmo, la colaboración y escuchar a los demás.
+
+Estoy aprendiendo a tocar el **bajo 🎸** y participo en un ensamble musical donde ensayamos y tocamos en grupo una vez por semana. También me interesa aprender piano y canto, no solo como pasatiempo, sino como forma de expresión y crecimiento personal.
+La música y tocar en grupo me está enseñando  lo mismo que el desarrollo de software: la importancia del ritmo, la constancia, saber cuándo marcar presencia y cuándo acompañar, y sobre todo, escuchar activamente a los demás para construir algo en conjunto.
 
 ---
 
