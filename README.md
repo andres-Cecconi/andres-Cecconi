@@ -26,9 +26,11 @@ También me atrae la innovación y cómo la tecnología puede simplificar proces
 
 ## 🚀 Proyectos
 
-### 👨‍💼 Portfolio personal  
-<a href="https://andres-cecconi.github.io/portfolio_desarrolloWeb/" target="_blank">🔗 Ver portfolio</a>  
-Sitio web hecho desde cero con HTML, CSS y JavaScript.
+### 👨‍💼 Portfolio personal
+Portfolio desarrollado como proyecto personal para presentar mis habilidades y experiencia en desarrollo web. Contiene secciones sobre mí, proyectos, contacto, y está diseñado con una estética moderna, responsive y clara.  
+- 🧰 Tecnologías: HTML, CSS, JavaScript (sin frameworks)  
+- 💡 Incluye animaciones, formulario de contacto funcional y diseño adaptado a distintos dispositivos  
+<a href="https://andres-cecconi.github.io/portfolio_desarrolloWeb/" target="_blank">🔗 Ver portfolio</a>
 
 ### 📊 Caja Plus
 Aplicación web para la gestión integral negocios: movimientos de caja, stock y reportes analíticos, pensada para pequeños comercios y emprendedores.  
