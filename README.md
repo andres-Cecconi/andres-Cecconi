@@ -82,7 +82,7 @@ Buena onda, compañero, y siempre buscando mejorar.
 Hace poco descubrí mi pasión por la música.  
 
 Estoy aprendiendo a tocar el **bajo 🎸** y participo en un ensamble musical donde ensayamos y tocamos en grupo una vez por semana. También me interesa aprender piano y canto, no solo como pasatiempo, sino como forma de expresión y crecimiento personal.
-La música y tocar en grupo me está enseñando  lo mismo que el desarrollo de software: la importancia del ritmo, la constancia, saber cuándo marcar presencia y cuándo acompañar, y sobre todo, escuchar activamente a los demás para construir algo en conjunto.
+La música y tocar en grupo me está enseñando  lo mismo que el desarrollo de software: la importancia del ritmo, la constancia, saber cuándo marcar presencia y cuándo acompañar, y sobre todo, escuchar activamente a los demás para construir algo en conjunto. 
 
 ---
 
