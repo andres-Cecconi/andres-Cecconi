@@ -1,4 +1,8 @@
-# Hola!👋👋 Soy Andrés Cecconi ![pixel-me2](https://github.com/user-attachments/assets/dbcdeb15-8b28-41ef-869e-a239b9e5893b)
+# Hola!👋👋 Soy Andrés Cecconi
+
+![ChatGPT Image May 28, 2025, 02_57_01 PM](https://github.com/user-attachments/assets/b796425a-c395-4d29-a0b7-f41346afd132)
+
+
 ### 🎓 Estudiante de Desarrollo de Software en UADE | 🎨 Frontend | 🖥️ Backend | 🐍 Python | 🛠️ Git | 🤖 Explorando ML
 
 ---
