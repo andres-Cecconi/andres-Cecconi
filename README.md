@@ -3,100 +3,68 @@
 ![ChatGPT Image May 28, 2025, 02_57_01 PM](https://github.com/user-attachments/assets/b796425a-c395-4d29-a0b7-f41346afd132)
 
 
-### 🎓 Estudiante de Desarrollo de Software en UADE | 🎨 Frontend | 🖥️ Backend | 🐍 Python | 🛠️ Git | 🤖 Explorando ML
+### 🔍🐛 QA Analyst | 🎓 Estudiante de Desarrollo de Software en UADE | 👨‍💻 Developer en desarrollo
 
 ---
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de Desarrollo de Software en UADE, y también autodidacta.  
-Me interesa entender cómo funcionan las cosas y aplicar lógica para resolver problemas reales.  
-Me interesa crecer tanto en lo técnico como en lo creativo, y estoy trabajando para integrar ambos aspectos en soluciones tecnológicas que aporten valor.
-
-Lo que más me entusiasma del mundo IT es el potencial de resolver problemas reales con tecnología. Me interesa especialmente aprender a pensar en soluciones sólidas, útiles y bien diseñadas.
-A futuro, me gustaría adentrarme en áreas como automatización, inteligencia artificial y machine learning, por su enorme potencial de impacto y transformación.
-También me atrae la innovación y cómo la tecnología puede simplificar procesos… aunque primero haya que complicarse un poco con el código 😅
-
+Trabajo como **QA Analyst**: testing manual, automatización de pruebas, certificación de bugs y documentación para clientes. Me gusta encontrar dónde se rompen las cosas y entender por qué.
+ 
+En paralelo estudio Desarrollo de Software en UADE y sigo formándome como developer, principalmente con **Python** y **Java**.
+ 
+Me interesa la **automatización** en todas sus formas: automatizar pruebas, procesos repetitivos y flujos de trabajo. Uso herramientas de IA en mi día a día para trabajar más rápido y mejor, y estoy aprendiendo a construir soluciones que las aprovechen.
 ---
 
 ## 🧰 Tecnologías con las que trabajo
 
-- 💻 **Frontend:** HTML, CSS, JavaScript, React, Bootstrap
-- 🧪 **Backend:** Python (Flask), Node.js (Express)
-- 🗃️ **Bases de datos:** JSON (por ahora), algo de MySQL
-- ⚙️ **Otras herramientas:** Git y GitHub, Postman, Figma
+**Lenguajes**
+ 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+ 
+**QA y automatización**
+ 
+![TestComplete](https://img.shields.io/badge/TestComplete-1F8A70?style=flat)
+
+**Control de versiones**
+ 
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Proyectos
 
-### 👨‍💼 Portfolio personal
-Portfolio desarrollado como proyecto personal para presentar mis habilidades y experiencia en desarrollo web. Contiene secciones sobre mí, proyectos, contacto, y está diseñado con una estética moderna, responsive y clara.  
-- 🧰 Tecnologías: HTML, CSS, JavaScript (sin frameworks)  
-- 💡 Incluye animaciones, formulario de contacto funcional y diseño adaptado a distintos dispositivos  
-<a href="https://andres-cecconi.github.io/portfolio_desarrolloWeb/" target="_blank">🔗 Ver portfolio</a>
-
-### 📊 Caja Plus
-Aplicación web para la gestión integral negocios: movimientos de caja, stock y reportes analíticos, pensada para pequeños comercios y emprendedores.  
-- 🖥️ Frontend: HTML, CSS, JS con `fetch()` para consumir API  
-- 🔧 Backend: Python + Flask (API REST modularizada)  
-- 🧪 Pruebas con Postman  
-- 💾 Uso de archivos `.json` para almacenamiento  
-
-> Proyecto académico desarrollado en equipo como parte de la carrera. Sitio actualmente en desarrollo. Más info:  
-🔗 [Ver repositorio (colaborador)](https://github.com/arieljarovisky/proyectoProgramacion1)  
-
-### 🛍️ E-commerce (Coderhouse)
-Tienda online desarrollada como parte del curso de JavaScript.  
-- HTML, CSS y JS Vanilla  
-- Funcionalidad de carrito, productos dinámicos y almacenamiento local  
-
-### 🐾 TigreVet (UADE - proyecto académico ficticio)  
-<a href="https://andres-cecconi.github.io/tigreVet_desarrolloWeb/" target="_blank">🔗 Ver sitio</a>  
-Sitio institucional para una veterinaria ecológica en Tigre.
-
-### 🌐 Backend con Node.js (Coderhouse)  
-Proyecto de backend con Express, rutas, controladores y manejo de datos usando archivos.  
+🚧 Estoy armando proyectos nuevos de automatización y desarrollo. Pronto van a estar acá.
 
 ---
 
 ## 🎓 Formación
 
-- 🏫 **UADE** – Tecnicatura en Desarrollo de Software (en curso)  
-- 💻 **Coderhouse** – Cursos de JavaScript y Backend con Node.js & Express (en curso)  
-- 📖 **Autodidacta** – Python, Flask, Git, GitHub y fundamentos de desarrollo backend
-
----
-
-## 🎯 Objetivo con este perfil
-
-Este GitHub es mi carta de presentación:  
-Quiero que puedan ver **qué sé hacer**, en qué estoy trabajando y también **quién soy**.
-
-Soy un tipo comprometido, con ganas de aprender y llevar a la práctica lo que estudio.  
-Buena onda, compañero, y siempre buscando mejorar.
+- 🏫 **UADE**: Tecnicatura en Desarrollo de Software (en curso)
+- 💻 **Coderhouse**: JavaScript y Backend con Node.js & Express
+- 📖 **Autodidacta**: Python, Git y automatización
 
 ---
 
 ## 🌍 Idiomas
 
-- 🇬🇧 Inglés: Nivel avanzado (C1 equivalente). Tuve un paso académico por el profesorado y aunque hoy no lo practico todos los días, lo entiendo a la perfección y conservo fluidez al hablar.
+- 🇦🇷 Español: nativo
+- 🇬🇧 Inglés: avanzado (C1)
 
 ---
 
-## 🎵 Algo más personal
-
-Hace poco descubrí mi pasión por la música.  
-
-Estoy aprendiendo a tocar el **bajo 🎸** y participo en un ensamble musical donde ensayamos y tocamos en grupo una vez por semana. También me interesa aprender piano y canto, no solo como pasatiempo, sino como forma de expresión y crecimiento personal.
-La música y tocar en grupo me está enseñando  lo mismo que el desarrollo de software: la importancia del ritmo, la constancia, saber cuándo marcar presencia y cuándo acompañar, y sobre todo, escuchar activamente a los demás para construir algo en conjunto. 
+## 🎸 Fuera del código
+ 
+Toco el bajo en una banda de covers de rock & pop. Tocar en grupo se parece bastante a trabajar en equipo: hay que escuchar a los demás antes de entrar.
 
 ---
 
-## 📬 ¿Dónde encontrarme?
-
-- ✉️ **Email:** cecconiandres.dev@gmail.com
-- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/andres-cecconi-b7b9a718b/" target="_blank">linkedin.com/in/andres-cecconi-b7b9a718b</a>
-- 🌐 **Portfolio:** <a href="https://andres-cecconi.github.io/portfolio_desarrolloWeb/" target="_blank">andres-cecconi.github.io/portfolio_desarrolloWeb</a>
-
+## 📬 Contacto
+ 
+- ✉️ **Email:** ancecconi15@gmail.com
+- 💼 **LinkedIn:** [linkedin.com/in/andres-cecconi-b7b9a718b](https://www.linkedin.com/in/andres-cecconi-b7b9a718b/)
+ 
 ---
